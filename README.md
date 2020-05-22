@@ -2,7 +2,7 @@
 
 > git clone git@github.com:lrubiorod/rad-script.git
 
-[Modify your data request]
+[Modify your data request] in src/main.rs
 
 > cd rad-script
 
